@@ -1,0 +1,7 @@
+1. openssl genpkey -algorithm RSA -out rsa_key.pem -pkeyopt rsa_keygen_bits:2048
+2. openssl rsa -in rsa_key.pem -pubout -out rsa_key.pub
+3. ALTER USER <user_name> SET RSA_PUBLIC_KEY='<public_key>';
+4. pip uninstall jwt , pip uninstall pyjwt, pip install pyjwt, pip install cryptography
+5. python sql-api-generate-jwt.py --account="HFSMUTH-EVB26016" --user="IFOGELMAN" --private_key_file_path="rsa_key.pem"
+6. Update the "url" variable on line 10 of the post_sql_command.py script with your org-instance id
+7. python post_sql_command.py

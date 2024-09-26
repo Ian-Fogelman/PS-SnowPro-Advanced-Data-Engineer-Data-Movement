@@ -1,0 +1,1 @@
+https://<account_id>/snowflakecomputing.com/api

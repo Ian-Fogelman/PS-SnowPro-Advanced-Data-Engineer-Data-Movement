@@ -1,0 +1,62 @@
+EMPLOYEE_ID,NAME,gender,age,department,job_title,satisfaction_score,work_life_balance_score,career_growth_score,communication_score,teamwork_score
+1,John Doe,Male,32,Finance,Accountant,4,3,3,4,4
+2,Jane Smith,Female,28,Marketing,Marketing Specialist,5,4,3,5,4
+3,Michael Johnson,Male,35,Sales,Sales Representative,4,2,3,4,3
+4,Emily Williams,Female,29,Technology,Software Engineer,5,3,4,5,5
+5,James Brown,Male,37,Human Resources,HR Manager,3,2,2,3,3
+6,Emma Taylor,Female,31,Operations,Operations Supervisor,4,4,3,4,4
+7,William Clark,Male,26,Customer Service,Customer Service Representative,5,4,4,5,5
+8,Olivia Miller,Female,33,Product Management,Product Manager,3,3,4,4,3
+9,Liam Anderson,Male,30,IT,IT Specialist,4,3,4,4,4
+10,Sophia Lewis,Female,27,Administration,Administrative Assistant,5,4,3,5,5
+11,Benjamin Thomas,Male,34,Finance,Accountant,4,3,3,4,4
+12,Ava Hall,Female,29,Marketing,Marketing Specialist,5,4,3,5,4
+13,Alexander White,Male,36,Sales,Sales Representative,4,2,3,4,3
+14,Charlotte Jackson,Female,30,Technology,Software Engineer,5,3,4,5,5
+15,Ethan Harris,Male,38,Human Resources,HR Manager,3,2,2,3,3
+16,Mia Martin,Female,32,Operations,Operations Supervisor,4,4,3,4,4
+17,David Anderson,Male,27,Customer Service,Customer Service Representative,5,4,4,5,5
+18,Sofia Moore,Female,34,Product Management,Product Manager,3,3,4,4,3
+19,Joseph King,Male,31,IT,IT Specialist,4,3,4,4,4
+20,Amelia Cooper,Female,28,Administration,Administrative Assistant,5,4,3,5,5
+21,Lucas Hill,Female,33,Finance,Accountant,4,3,3,4,4
+22,Grace Walker,Female,30,Marketing,Marketing Specialist,5,4,3,5,4
+23,Aiden Green,Male,37,Sales,Sales Representative,4,2,3,4,3
+24,Harper Young,Female,31,Technology,Software Engineer,5,3,4,5,5
+25,Christopher Allen,Male,39,Human Resources,HR Manager,3,2,2,3,3
+26,Lily Wright,Female,33,Operations,Operations Supervisor,4,4,3,4,4
+27,Daniel Robinson,Male,28,Customer Service,Customer Service Representative,5,4,4,5,5
+28,Sofia Hall,Female,35,Product Management,Product Manager,3,3,4,4,3
+29,Logan Turner,Male,32,IT,IT Specialist,4,3,4,4,4
+30,Ella Lee,Female,29,Administration,Administrative Assistant,5,4,3,5,5
+31,William Parker,Male,34,Finance,Accountant,4,3,3,4,4
+32,Avery Carter,Female,31,Marketing,Marketing Specialist,5,4,3,5,4
+33,Lincoln Gonzalez,Male,38,Sales,Sales Representative,4,2,3,4,3
+34,Chloe Harris,Female,32,Technology,Software Engineer,5,3,4,5,5
+35,Michael Walker,Male,40,Human Resources,HR Manager,3,2,2,3,3
+36,Emily Moore,Female,34,Operations,Operations Supervisor,4,4,3,4,4
+37,James Phillips,Male,29,Customer Service,Customer Service Representative,5,4,4,5,5
+38,Olivia Hall,Female,36,Product Management,Product Manager,3,3,4,4,3
+39,Benjamin Clark,Male,33,IT,IT Specialist,4,3,4,4,4
+40,Ava Lopez,Female,30,Administration,Administrative Assistant,5,4,3,5,5
+41,Alexander Turner,Female,35,Finance,Accountant,4,3,3,4,4
+42,Sophia Campbell,Male,32,Marketing,Marketing Specialist,5,4,3,5,4
+43,Joseph Roberts,Male,39,Sales,Sales Representative,4,2,3,4,3
+44,Mia Hill,Female,33,Technology,Software Engineer,5,3,4,5,5
+45,David Ross,Male,41,Human Resources,HR Manager,3,2,2,3,3
+46,Lucy Perez,Female,35,Operations,Operations Supervisor,4,4,3,4,4
+47,Logan Cooper,Male,30,Customer Service,Customer Service Representative,5,4,4,5,5
+48,Emma Richardson,Female,37,Product Management,Product Manager,3,3,4,4,3
+49,Ethan Phillips,Male,34,IT,IT Specialist,4,3,4,4,4
+50,Charlotte Smith,Female,31,Administration,Administrative Assistant,5,4,3,5,5
+51,Noah Kelly,Male,35,Sales,Sales Representative,4,2,3,4,3
+44,Mia Hill,Female,33,Technology,Software Engineer,5,3,4,5,5
+41,Alexander Turner,Female,35,Finance,Accountant,4,3,3,4,4
+35,Michael Walker,Male,40,Human Resources,HR Manager,3,2,2,3,3
+32,Avery Carter,Female,31,Marketing,Marketing Specialist,5,4,3,5,4
+25,Christopher Allen,Male,39,Human Resources,HR Manager,3,2,2,3,3
+9,Liam Anderson,Male,30,IT,IT Specialist,4,3,4,4,4
+6,Emma Taylor,Female,31,Operations,Operations Supervisor,4,4,3,4,4
+4,Emily Williams,Female,29,Technology,Software Engineer,5,3,4,5,5
+2,Jane Smith,Female,28,Marketing,Marketing Specialist,5,4,3,5,4
+1,John Doe,Male,32,Finance,Accountant,4,3,3,4,4
